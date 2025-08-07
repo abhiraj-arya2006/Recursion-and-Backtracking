@@ -1,0 +1,5 @@
+111
+12
+21
+3
+No. of ways of ways to descend 4
